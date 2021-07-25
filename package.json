@@ -1,5 +1,5 @@
 {
-  "name": "react_input",
+  "name": "@juanjo4u/react_input",
   "version": "1.0.0",
   "description": "react input with validation",
   "main": "src/index.tsx",
