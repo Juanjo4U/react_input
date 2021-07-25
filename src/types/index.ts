@@ -22,7 +22,7 @@ export interface InputPropsTypes {
     placeholder?: string,
     initialValue?: any,
     controledValue?: any,
-    onChangeText?: AnyFunction,
+    onChange?: AnyFunction,
     validations?: ValidationTypes,
     [x: string]: any
 }
